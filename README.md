@@ -86,3 +86,7 @@ Add text here
 > Important architecture decision that you want development team to follow
 
 Add text here
+
+### Architecture & Specification Tools
+
+- **[MySpec](https://myspec.dev)** — Interactive requirements discovery and 4-file specification generator (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) with native MCP server integration (`@myspec/mcp-server`). Free tier includes 20 projects and 100 spec files.
